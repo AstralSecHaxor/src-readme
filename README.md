@@ -1,3 +1,3 @@
 # src-readme
 
-![lazyy](lazyuser-fontes/lazy.jpg)
+![lazyy](lazyuser-fontes/lazy.jng)
